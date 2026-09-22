@@ -1,0 +1,6 @@
+{
+  "name": "HTML Locale & Timezone Modifier",
+  "description": "Upload an HTML file to modify script locale and UTC timezone declarations while preserving strict chronological order, then export the result.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
